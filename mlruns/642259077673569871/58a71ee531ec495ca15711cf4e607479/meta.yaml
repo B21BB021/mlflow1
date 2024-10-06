@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onkar_singh/mlflow1/mlruns/642259077673569871/58a71ee531ec495ca15711cf4e607479/artifacts
+end_time: 1727768485408
+entry_point_name: ''
+experiment_id: '642259077673569871'
+lifecycle_stage: active
+run_id: 58a71ee531ec495ca15711cf4e607479
+run_name: Random_Forest
+run_uuid: 58a71ee531ec495ca15711cf4e607479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727768483321
+status: 3
+tags: []
+user_id: onkar_singh

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727768573962
+current_stage: None
+description: ''
+last_updated_timestamp: 1727768573962
+name: bestmodle
+run_id: 4553847452604b589d9014c6dd671d7b
+run_link: ''
+source: file:///home/onkar_singh/mlflow1/mlruns/642259077673569871/4553847452604b589d9014c6dd671d7b/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///home/onkar_singh/mlflow1/mlruns/642259077673569871/4553847452604b589d9014c6dd671d7b/artifacts/best_model
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727768282955
+current_stage: None
+description: ''
+last_updated_timestamp: 1727768282955
+name: mlflow
+run_id: c52e52768c4e4164912e074fe7f86ea6
+run_link: ''
+source: file:///home/onkar_singh/mlflow1/mlruns/642259077673569871/c52e52768c4e4164912e074fe7f86ea6/artifacts/Random_Forest
+status: READY
+status_message: null
+storage_location: file:///home/onkar_singh/mlflow1/mlruns/642259077673569871/c52e52768c4e4164912e074fe7f86ea6/artifacts/Random_Forest
+user_id: null
+version: 1
